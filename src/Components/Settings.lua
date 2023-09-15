@@ -1,16 +1,16 @@
 return{
 	--static
 	BaseRot = 2.5, -- rotation speed
-	SetRot = .4, -- rotation strenght
+	SetRot = 0.4, -- rotation strenght
 	BaseFreq = 15, -- view bobbing frequency
-	SetFreq = .16, -- view bobbing strenght
+	SetFreq = 0.16, -- view bobbing strenght
 	BaseMult = 12, -- base multiplier: less -> stronger effects
 	BaseNumLerp = 0.25, -- lerp time value
 	
 	--sway settings
-	SwayStrenght = .2, -- effect strenght
+	SwayStrenght = 0.2, -- effect strenght
 	BaseSway = 2.3, -- axis strenght
-	SetSway = .5, -- axis multiplier
+	SetSway = 0.5, -- axis multiplier
 	CustomSwayZVal = -10, -- vector z value
 	
 	--drift min/max
