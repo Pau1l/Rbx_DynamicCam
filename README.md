@@ -20,7 +20,7 @@ local Settings : SettingsType = require(script:WaitForChild("Settings"))
 * SetRot - rotation strenght
 * BaseFreq - view bobbing frequency
 * SetFreq - view bobbing strenght
-* BaseMult - base multiplier: less -> stronger effects
+* BaseMult - base multiplier: less-> stronger effects
 * BaseNumLerp - lerp time value
 * SwayStrenght - effect strenght
 * BaseSway- axis strenght
