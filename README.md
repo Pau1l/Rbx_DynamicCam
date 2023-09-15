@@ -7,7 +7,7 @@ First Person view dynamic camera for Roblox.
 ## Setting up the camera:
 
 ```lua
--- Put the FPV Script inside of StarterCharacter.
+-- Put the FPV Script inside of StarterCharacterScripts.
 
 -- Make sure to require the settings from a correct path:
 local Settings : SettingsType = require(script:WaitForChild("Settings"))
